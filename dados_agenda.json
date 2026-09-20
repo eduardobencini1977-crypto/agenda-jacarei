@@ -1,26 +1,8 @@
 {
   "medicos": [
-    {
-      "nome": "Paulo"
-    },
-    {
-      "nome": "Andrea"
-    },
-    {
-      "nome": "Felipe"
-    }
+    {"nome": "Paulo"},
+    {"nome": "Andrea"},
+    {"nome": "Felipe"}
   ],
-  "agendamentos": [
-    {
-      "medico": "Paulo",
-      "data": "2026-09-01",
-      "hora": "08:00",
-      "nome_servidor": "d",
-      "matricula": "d",
-      "tipo_atendimento": "d",
-      "tipo_solicitacao": "Atestado acima de 48 horas",
-      "observacao": "",
-      "status": "FALTA"
-    }
-  ]
+  "agendamentos": []
 }
